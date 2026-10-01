@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Trattoria Pennabianca">
+  <circle cx="60" cy="60" r="58" fill="#9a3412"/>
+  <circle cx="60" cy="60" r="50" fill="none" stroke="#faf6ef" stroke-width="1.5" opacity=".55"/>
+  <!-- the white feather -->
+  <path d="M78 26c-17 3-31 17-35 36-2 9-2 18 0 27l4-9c1-5 3-10 6-14 6-8 14-13 22-15-7 0-13 2-18 5 5-6 12-10 20-12-6-1-11 0-16 2 6-6 13-10 21-12-3-3-5-6-4-8z" fill="#faf6ef"/>
+  <path d="M43 89c4-12 11-25 22-37" fill="none" stroke="#9a3412" stroke-width="1.6" stroke-linecap="round"/>
+</svg>
