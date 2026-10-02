@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Studio Brisalto">
+  <rect x="2" y="2" width="116" height="116" rx="28" fill="#111827"/>
+  <path d="M30 78c10-22 22-34 30-34s14 8 18 16 8 14 14 14" fill="none" stroke="#a5f3fc" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="86" cy="40" r="7" fill="#fbbf24"/>
+</svg>
